@@ -1,0 +1,9 @@
+h1 {
+	text-shadow: 3px 3px PaleVioletRed;
+}	
+p {
+	color: PaleVioletRed;
+	background-color: PowderBlue;
+	font-size: medium;
+	text-align: center;
+}

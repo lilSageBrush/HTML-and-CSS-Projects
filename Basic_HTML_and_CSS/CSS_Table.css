@@ -1,0 +1,11 @@
+table {
+	border: 2px solid DarkSlateBlue;
+}
+td:hover {
+	background-color: LemonChiffon;
+	color: Lavender;
+}
+tr, td {
+	background-color: LightGray;
+	color: DarkSlateBlue;
+}
