@@ -1,0 +1,12 @@
+body {
+    font-family: "Comic Sans MS";
+    font-size: 14px;
+}
+
+.contact {
+    width: 65%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: double 2px palevioletred;
+    border-radius: 4px;
+}
